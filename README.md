@@ -1,16 +1,18 @@
-# practical_softieons
+<h1>PDF Download App 📚</h1>
 
-A new Flutter project.
+PDF Download App is a Flutter-based application designed for seamless downloading, viewing, and managing PDF files. The app ensures a user-friendly interface and efficient functionality.
 
-## Getting Started
+<h2>Technologies Used 🛠️</h2>
+    <ul>
+        <li><strong>Flutter Framework</strong>: Cross-platform development.</li>
+        <li><strong>Dart</strong>: Programming language.</li>
+        <li><strong>PDF Package</strong>: To render and handle PDF files.</li>
+        <li><strong>HTTP Library</strong>: For downloading files from the internet.</li>
+    </ul>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>Functionality 🚀</h2>
+  <ul>
+        <li>Download PDFs with real-time progress updates, showing how much is downloaded and how much remains.</li>
+        <li>Supports multiple PDF downloads simultaneously for added convenience</li>
+  </ul>
+  
